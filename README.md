@@ -1,2 +1,2 @@
 # ComputerGraphics
-all porjects for computer graphics
+all projects for computer graphics
